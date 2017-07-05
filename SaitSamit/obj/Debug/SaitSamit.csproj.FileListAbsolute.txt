@@ -1,0 +1,6 @@
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\bin\Debug\SaitSamit.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\bin\Debug\SaitSamit.exe
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\bin\Debug\SaitSamit.pdb
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\obj\Debug\SaitSamit.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\obj\Debug\SaitSamit.exe
+c:\users\p501\documents\visual studio 2017\Projects\SaitSamit\SaitSamit\obj\Debug\SaitSamit.pdb
